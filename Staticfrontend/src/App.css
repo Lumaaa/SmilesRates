@@ -1,0 +1,23 @@
+
+
+.add{
+  justify-content: center;
+}
+
+.container{
+  display: inline-grid;
+  grid-template-columns: 100% ;
+}
+
+.item{
+  grid-column-start: 1;
+  grid-column-end: 12;
+}
+.item02{
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+.item3{
+  grid-column-start: 4;
+  grid-column-end: 5;
+}

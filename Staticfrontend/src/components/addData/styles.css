@@ -1,0 +1,25 @@
+.addData{
+width: 100%;
+margin-left: 2%;
+}
+
+.addData h2{
+
+ margin-left: 10%;
+
+}
+
+input{
+  width: 20%;
+  height: 25px;
+}
+button{
+  width: 100px;
+  height: 50px;
+border-radius: 10px;
+background-color: #5CC3B6;
+border-color: #5CC3B6;
+color: #182865;
+border-style: none;
+margin-left: 10%;
+}

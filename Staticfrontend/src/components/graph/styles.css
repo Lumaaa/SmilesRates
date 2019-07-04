@@ -1,0 +1,17 @@
+
+
+.giraf{
+ display: inline-flex;
+ width: 100%;
+
+}
+.giraf h2{
+  margin-left: 5%;
+}
+.chart{
+  width: 100%;
+  height: 100%;
+}
+.siden{
+text-align: center; 
+}

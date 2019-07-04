@@ -1,10 +1,10 @@
 const sql = require('mssql');
 //const data = require("../model/smil.js");
 const config =  {
-  user: "heleneselme_dk",
-  password: "k2fdj7i1",
-  server: "mssql4.unoeuro.com",
-  database: "heleneselmernielsen_dk_db"
+  user: "DatabaseUserName",
+  password: "DatabasePassword",
+  server: "Databaseurl",
+  database: "DatabaseName"
 };
 
 module.exports.getAllData = function(callback){

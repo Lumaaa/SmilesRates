@@ -1,5 +1,6 @@
 import React, { PureComponent  } from 'react'
 
+//change logo url til the right img
 import Logo from './img/logo.png'
 
 import './styles.css'

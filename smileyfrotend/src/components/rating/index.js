@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import axios from 'axios'
 
-
+// change logo url to the right logo
 import logo from '../../image/logo2x.png';
 import veryhappe from './img/inlove.png'
 import happy from './img/happy.png'
